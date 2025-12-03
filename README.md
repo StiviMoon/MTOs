@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![MTOs Logo](mto-front/public/icon.svg)
 
 **Plataforma profesional para monitoreo, análisis y predicción meteorológica en tiempo real**
 
